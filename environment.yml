@@ -1,0 +1,12 @@
+name: myst-monte-carlo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - mystmd
