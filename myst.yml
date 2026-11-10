@@ -1,0 +1,12 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: "Lab 10: Languages of Africa"
+  authors:
+    - name: Miranda Zhu
+  github: https://github.com/Mirandazhu02/lab10
+  toc:
+    - file: README.md
+    - file: africa_languages.ipynb
+site:
+  template: book-theme
