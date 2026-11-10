@@ -221,3 +221,7 @@ __marimo__/
 
 # MyST build output
 _build/
+
+# Quarto
+.quarto/
+slides_files/
